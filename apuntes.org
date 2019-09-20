@@ -1,0 +1,17 @@
+#+title: Apuntes de Teoría de Gráficas
+#+author: Ruth Sarai Soto Trejo
+
+
+* Definicion de gráfica
+** Vértices y aristas
+Una gráfica \(G\) consta de dos conjuntos, uno llamado el conjunto de
+vértices y otro llamado el conjunto de aristas.
+** Orden y Tamaño
+** Gráficas regulares
+*** Gráficas cúbicas
+** Isomorfismo de gráficas.
+
+* Complemento de una gráfica
+
+* El Teorema Fundamental
+
